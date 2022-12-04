@@ -9,11 +9,12 @@ body {
 
 button {
     background-color:rgb(191, 194, 197);
-    color:rgb(5, 73, 5)
     font-family:fantasy; 
     border-color: rgb(5, 73, 5);
 }
-
+a:link {
+    color:rgb(5, 73, 5)
+}
 a:visited {
     color:rgb(5, 73, 5)
 }
