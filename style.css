@@ -1,0 +1,21 @@
+body {  
+    font-family:fantasy, sans-serif; 
+    font-size: 20px;
+    color: rgb(5, 73, 5);
+    background-color:cadetblue;
+    text-align: center;
+}
+
+
+button {
+    background-color:rgb(191, 194, 197);
+    font-family:fantasy; 
+    border-color: rgb(5, 73, 5);
+}
+
+a:visited {
+    color:rgb(5, 73, 5)
+}
+a:hover {
+    color:black;
+}
